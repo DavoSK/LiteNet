@@ -5,7 +5,7 @@ Simple crossplaftorm UDP networking library
  * single header library
  * cross plaftorm support
  * simple API for client and server
- * simple ussage
+ * simple usage
 
 Here is some ussage of library :+1:
 
